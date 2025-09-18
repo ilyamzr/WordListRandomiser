@@ -29,7 +29,7 @@
             3.2.1.3. [Требования к хранению данных](#data_storage_requirements)  
         3.2.2. [Внешние интерфейсы](#external_interfaces)  
         3.2.3. [Ограничения](#restrictions)
-   4. [Мокапы приложения](#mockups)
+4. [Мокапы приложения](#mockups)
 
 <a name="intro"/>
 
