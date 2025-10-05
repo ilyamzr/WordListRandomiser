@@ -1,18 +1,17 @@
 # Диаграммы активностей "WordListRandomiser"
 
-# Содержание
-1. [Рабочий процесс создания/редактирования списка слов](#1)
-2. [Рабочий процесс изменения параметров списка слов](#2)
-3. [Процесс симуляции жребия](#3)
+## Содержание
+1. [Рабочий процесс создания/редактирования списка слов](#рабочий-процесс-созданияредактирования-списка-слов)
+2. [Рабочий процесс изменения параметров списка слов](#рабочий-процесс-изменения-параметров-списка-слов)
+3. [Процесс симуляции жребия](#процесс-симуляции-жребия)
 
-### 1. Рабочий процесс создания/редактирования списка слов name="1"></a>
+---
 
-![Рабочий процесс создания/редактирования списка слов](https://github.com/ilyamzr/WordListRandomiser/tree/main/Diagrams/Images/Activity_edit_word_list.png)
+### Рабочий процесс создания/редактирования списка слов <a id="рабочий-процесс-созданияредактирования-списка-слов"></a>
+![Диаграмма](https://raw.githubusercontent.com/ilyamzr/WordListRandomiser/main/Diagrams/Images/Activity_edit_word_list.png)
 
-### 2. Рабочий процесс изменения параметров списка слов<a name="2"></a>
+### Рабочий процесс изменения параметров списка слов <a id="рабочий-процесс-изменения-параметров-списка-слов"></a>
+![Диаграмма](https://raw.githubusercontent.com/ilyamzr/WordListRandomiser/main/Diagrams/Images/Activity_edit_preferences.png)
 
-![Рабочий процесс изменения параметров списка слов](https://github.com/ilyamzr/WordListRandomiser/tree/main/Diagrams/Images/Activity_edit_preferences.png)
-
-### 3. Процесс симуляции жребия <a name="3"></a>
-
-![Процесс симуляции жребия](https://github.com/ilyamzr/WordListRandomiser/tree/main/Diagrams/Images/Activity_lots.png)
+### Процесс симуляции жребия <a id="процесс-симуляции-жребия"></a>
+![Диаграмма](https://raw.githubusercontent.com/ilyamzr/WordListRandomiser/main/Diagrams/Images/Activity_lots.png)
