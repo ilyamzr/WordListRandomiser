@@ -1,4 +1,4 @@
-![Диаграмма вариантов использования](https://github.com/YourUsername/WordListRandomizer/blob/main/diagrams/Images/use_case.png)
+![Диаграмма вариантов_использования](https://raw.githubusercontent.com/ilyamzr/WordListRandomiser/main/Diagrams/Images/use_case.png)  <!-- Замените на актуальную ссылку -->
 
 # Глоссарий
 
